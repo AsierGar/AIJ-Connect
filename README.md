@@ -152,11 +152,6 @@ El sistema analiza el plan de tratamiento:
 - Chatbot para resolver dudas
 - Galería de fotos clínicas
 
----
-
-## 🎥 Demo
-
-*[Enlace al video de demostración]*
 
 ---
 
