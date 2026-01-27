@@ -1,0 +1,4 @@
+crewai
+langchain_ollama
+pydantic
+python-dotenv

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Entornos virtuales
+venv/
+venv_crew/
+.venv/
+
+# Bases de datos vectoriales (se regeneran)
+ai_backend/vector_db/
+ai_engine/vector_db/
+mobile_app/faiss_index_ollama/
+
+# Datos de pacientes (sensibles/ejemplo)
+mobile_app/pacientes.json
+mobile_app/historial_pacientes.json
+mobile_app/fotos_pacientes/
+mobile_app/documentos_pacientes/
+mobile_app/usuarios.json
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Documentación personal
+z/
+
