@@ -196,10 +196,7 @@ class ProcesarRecetaTool(BaseTool):
     
     Recibe los datos extraídos de la prescripción y genera un JSON
     estructurado con el análisis y la decisión.
-    
-    NOTA: Esta herramienta NO guarda nada en disco, solo analiza y
-    devuelve el resultado. El guardado se hace en la capa de UI.
-    
+   
     EJEMPLO:
         >>> proc = ProcesarRecetaTool()
         >>> resultado = proc._run(
