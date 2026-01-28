@@ -6,10 +6,6 @@ INGEST.PY - Indexador de Documentos PDF (Versión Ollama)
 Este script procesa los PDFs de guías médicas y los indexa en una base
 de datos vectorial (ChromaDB) usando embeddings de Ollama.
 
-DIFERENCIA CON ai_backend/ingest_knowledge.py:
-- Este usa Ollama embeddings (nomic-embed-text) - requiere Ollama corriendo
-- El otro usa HuggingFace embeddings (all-MiniLM-L6-v2) - corre sin servidor
-
 PROCESO:
 1. Escanea la carpeta 'data/' buscando PDFs
 2. Extrae el texto de cada PDF con PyPDFLoader
