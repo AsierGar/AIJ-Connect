@@ -15,9 +15,7 @@ FLUJO:
 
 USO:
     echo '{"texto_medico": "...", "peso_paciente": 30}' | python run_tripulacion.py
-
-NOTA: Este archivo es una alternativa más simple a tripulacion.py, sin usar
-el framework completo de CrewAI Agents.
+    
 ================================================================================
 """
 
