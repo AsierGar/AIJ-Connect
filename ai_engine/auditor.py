@@ -25,8 +25,7 @@ class AgenteAuditor:
     """
     Agente de IA que audita la seguridad de prescripciones médicas.
     
-    Usa RAG (Retrieval Augmented Generation) para consultar guías médicas
-    y determinar si una prescripción es segura.
+    Usa RAG para consultar guías médicasy determinar si una prescripción es segura.
     
     Atributos:
         llm: Modelo de lenguaje Ollama (Llama3) para razonamiento
