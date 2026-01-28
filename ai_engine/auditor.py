@@ -12,8 +12,6 @@ FUNCIÓN PRINCIPAL:
 - Usar Llama3 para analizar si hay contraindicaciones o alertas
 - Devolver un veredicto (aprobado/rechazado) con explicaciones
 
-NOTA: Este módulo es una versión anterior del sistema de validación.
-La versión actual más completa está en ai_backend/agents/tripulacion.py
 ================================================================================
 """
 
