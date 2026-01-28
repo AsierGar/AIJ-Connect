@@ -7,9 +7,6 @@ Este módulo define las herramientas o tools que usa el sistema de IA para:
 1. Consultar las guías médicas indexadas (RAG)
 2. Procesar y estructurar las prescripciones médicas
 
-Las herramientas siguen el patrón de CrewAI BaseTool, lo que permite
-usarlas tanto de forma independiente como con agentes de CrewAI.
-
 HERRAMIENTAS:
 - ConsultarGuiaRAGTool: Busca información en las guías médicas
 - ProcesarRecetaTool: Estructura y valida la prescripción
