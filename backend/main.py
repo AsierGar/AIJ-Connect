@@ -26,8 +26,6 @@ USO:
          -H "Content-Type: application/json" \
          -d '{"texto_voz": "Ibuprofeno 10mg/kg cada 8h", "peso_paciente": 30}'
 
-NOTA: Este backend usa los agentes de ai_engine/ (versión con Ollama).
-La aplicación principal ahora usa ai_backend/ que tiene mejor integración.
 ================================================================================
 """
 
